@@ -232,7 +232,6 @@ const App = () => {
   const [preferences, setPreferences] = useState(null);
 
 
-
   const handlePreferencesSubmit = (formData) => {
     setPreferences(formData);
     if (formData.searchQuery) {
