@@ -1,0 +1,69 @@
+.event-list {
+    margin-top: 20px;
+}
+
+.go-back-button {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.event {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.event_name {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.event-category {
+    font-style: italic;
+}
+
+.event-date {
+    margin-bottom: 5px;
+}
+
+.event-location,
+.event-description,
+.event-participants,
+.event-ticket {
+    margin-top: 10px;
+}
+
+.event-details-button {
+    margin-bottom: 20px;
+    padding: 8px 16px;
+    background: lightblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px 16px;
+    background: lightblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.toggle-details-button {
+    margin-top: 10px;
+    background: lightgray;
+    color: black;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 5px;
+}

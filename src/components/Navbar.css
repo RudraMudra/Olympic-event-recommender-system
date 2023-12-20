@@ -1,0 +1,14 @@
+.navLink {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 32px;
+    margin-right: 20px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .navLink:hover {
+    border-bottom: 4px solid rgb(0, 120, 208);
+}
